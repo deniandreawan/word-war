@@ -1,5 +1,5 @@
 # Word War React Game
-visit live demo at <https://wordwar.vercel.com>
+visit live demo at <https://wordwar.vercel.app>
 
 ### Install Dependencies
 ```sh
